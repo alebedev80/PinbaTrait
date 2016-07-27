@@ -1,12 +1,11 @@
 {
   "name": "alebedev80/PinbaTrait",
   "description": "PHP Pinba Trait",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "LGPL",
   "authors": [
     {
-      "name": "alebedev80",
-      "email": ""
+      "name": "alebedev80"
     }
   ],
 
