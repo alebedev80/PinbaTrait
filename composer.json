@@ -1,7 +1,7 @@
 {
   "name": "alebedev80/PinbaTrait",
   "description": "PHP Pinba Trait",
-  "minimum-stability": "development",
+  "minimum-stability": "stable",
   "license": "LGPL",
   "authors": [
     {
