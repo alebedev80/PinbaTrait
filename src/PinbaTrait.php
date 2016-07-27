@@ -2,7 +2,7 @@
 /* */
 namespace PinbaTrait;
 
-trait pinba {
+trait PinbaTrait {
 
       static protected $enabled = false;
           static protected $type;
