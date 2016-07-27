@@ -1,5 +1,5 @@
 <?php
-
+/* */
 namespace PinbaTrait;
 
 trait pinba {
